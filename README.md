@@ -7,4 +7,4 @@ It also creates the follwoing files according to the task
         Resources/subcategory.csv
 
 For topic Create the Contacts DataFrame, I chose implementation of option 1.
-![image](https://github.com/yslavcom-code/Crowdfunding_ETL/blob/main/ETL_Mini_Project_IDochien_JaneLu.ipynb)
+![text](https://github.com/yslavcom-code/Crowdfunding_ETL/blob/main/ETL_Mini_Project_IDochien_JaneLu.ipynb)
