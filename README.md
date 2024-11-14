@@ -1,4 +1,5 @@
 This is solution for project 2 by Iaroslav Dochien and Jane (Xingran Lu).
+
 Notebook ETL_Mini_Project_IDochien_JaneLu.ipynb uses starter files in the Resources folder.
 It also creates the follwoing files according to the task
         Resources/campaign.csv
